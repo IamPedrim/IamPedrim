@@ -1,3 +1,2 @@
-- Just a 15 years old boy trying to be a programmer :P
-- I'm currently learning Python 🐍
-- Any help would be good 😅
+- Just a 18 years old boy trying to be a programmer :P
+- Python, JS, HTML, CSS
